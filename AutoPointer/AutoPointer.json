@@ -1,0 +1,12 @@
+{
+  "Author": "Myrche Burgers",
+  "Name": "AutoPointer",
+  "Punchline": "This is really stupid and you shouldn't use it.",
+  "Description": "Point at people. Rudely, if you want.",
+  "InternalName": "autoPointer",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "dumb",
+    "point"
+  ]
+}

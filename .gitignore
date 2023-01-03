@@ -1,0 +1,8 @@
+.vs/
+obj/
+bin/
+Windows/PointerWindow.cs
+Attributes/*
+Data/*
+.editorconfig
+*.user
